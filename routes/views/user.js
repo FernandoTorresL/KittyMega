@@ -10,7 +10,7 @@ router.get('/', async function (req, res) {
 
   const users = await UserService.getUsers({ tags });
   console.log(users);
-  res.render('csv_files', { data: users });
+  res.render('users', { data: users });
 });
 
 module.exports = router;
