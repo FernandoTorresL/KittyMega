@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FernandoTorresL/KittyMega.git"
+    "url": "git+https://github.com/FernandoTorresL/demo_crud_express_mysql.git"
   },
   "keywords": [],
   "author": "Fernando Torres <fertorresmx@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FernandoTorresL/KittyMega/issues"
+    "url": "https://github.com/FernandoTorresL/demo_crud_express_mysql/issues"
   },
-  "homepage": "https://github.com/FernandoTorresL/KittyMega#readme",
+  "homepage": "https://github.com/FernandoTorresL/demo_crud_express_mysql#readme",
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "dotenv": "^8.2.0",
