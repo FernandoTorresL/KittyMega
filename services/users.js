@@ -1,4 +1,3 @@
-//const MongoLib = require("../lib/mongo");
 const MySqlLib = require('../lib/mysql');
 
 class UsersService {
